@@ -10,7 +10,7 @@ Full Stack Developer | React | Next.js | Node.js | Laravel | SQL| PostgreSQL
 
 🛠 Backend: Node.js, Express.js, Laravel, REST APIs
 
-🗄 Databases: PostgreSQL, MySQL, SQL
+🗄 Databases: PostgreSQL, MySQL, MongoDB
 
 ⚙️ Tools: Git, Docker, Prisma, Firebase
 
