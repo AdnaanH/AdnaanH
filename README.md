@@ -32,7 +32,7 @@ Full Stack Developer | React | Next.js | Node.js | Laravel | SQL| PostgreSQL
 
 📫 Let's Connect:
 -------------------------------------------------------
-📌 Portfolio: https://ahhamisi.vercel.app
+📌 Portfolio: https://ahamisi.me
 
 🔗 LinkedIn: https://www.linkedin.com/in/adnan-hamisi
 
