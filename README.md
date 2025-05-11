@@ -16,7 +16,7 @@ Full Stack Developer | React | Next.js | Node.js | Laravel | SQL| PostgreSQL
 
 🚀 What I'm Working On:
 -------------------------------------------------------
-🔹 Developing feature-rich web applications with React, Next.js, and Node.js
+🔹 Developing feature-rich cross platform applications with HTML5/CSS3, Javascript, React, Next.js, Node.js, Django, Laravel and Python
 
 🔹 Optimizing APIs & databases for performance and security
 
